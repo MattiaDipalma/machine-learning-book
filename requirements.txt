@@ -2,5 +2,5 @@ numpy
 matplotlib
 seaborn
 keras
-tensorflow; platform_system != "Darwin" or platform_machine != "arm64"
+tensorflow
 tensorflow-macos
