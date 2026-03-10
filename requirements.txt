@@ -3,4 +3,3 @@ matplotlib
 seaborn
 keras
 tensorflow
-tensorflow-metal
