@@ -1,4 +1,6 @@
 import numpy as np
+#from matplotlib import pyplot as plt
+#add a visualisation of the code
 
 def predict(X,w,b):
     return X*w+b
