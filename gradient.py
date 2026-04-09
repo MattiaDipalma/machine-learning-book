@@ -47,6 +47,7 @@ plt.plot(p,predict(p,w,b),'o',color='b',label="predicted data")
 plt.title("Lineare Regression mit Gradient  Verfahren")
 plt.xlabel("reservations")
 plt.ylabel("pizzas")
+plt.legend()
 plt.grid(True)
 plt.show()
 # %%
