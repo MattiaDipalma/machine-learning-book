@@ -44,7 +44,7 @@ plt.plot(x,linear_regression(x),color = 'g',label="trend")
 plt.plot(X,Y,'o',color='r',label="real data")
 plt.plot(p,predict(p,w,b),'o',color='b',label="predicted data")
 
-plt.title("Lineare Regression mit Gradient  Verfahren")
+plt.title("Lineare Regression mit Gradient Verfahren")
 plt.xlabel("reservations")
 plt.ylabel("pizzas")
 plt.legend()
